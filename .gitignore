@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+system/artifacts/
+system/models/*.part
+*.zip
+AGENTS.md
+PROJECT_FORMAT.md
+PROJECT-FORMAT.md
+SKILL.md
+.codex/
+.agents/
+system/docs/mediapipe-workshop-game/
