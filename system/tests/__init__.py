@@ -34,5 +34,3 @@ def make_pose(gesture="กลาง", side="Left"):
     elif gesture == "เอียงศีรษะ":
         points[7 if side == "Left" else 8].y += 0.06
     return points
-
-
